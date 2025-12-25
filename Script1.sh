@@ -3,4 +3,7 @@ echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
+echo "a=b"
+echo "akljsv"
 echo "addition of lines for merge conflict "
+
