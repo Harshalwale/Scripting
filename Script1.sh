@@ -5,3 +5,5 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "a=b"
 echo "akljsv"
+echo "addition of lines for merge conflict "
+
